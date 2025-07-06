@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" alt="adwaithprasanth" /> </p>
 <h1 align="center">Hi, I'm Adwaith Prasanth</h1>
 <h3 align="center">A passionate developer from India</h3>
 
