@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/adwaithprasanth/adwaithprasanth/images/banner.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/adwaithprasanth/adwaithprasanth/blob/main/images/banner.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <br />
