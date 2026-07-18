@@ -1,20 +1,23 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" alt="adwaithprasanth" /> </p>
-<h1 align="center">
-  Hi 
-  <img src="https://em-content.zobj.net/source/apple/419/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" alt="waving hand" style="width: 1em; height: 1em; vertical-align: middle;">
-  , I'm Adwaith Prasanth
-</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adwaithprasanth&label=Profile%20views&color=blueviolet&style=plastic" alt="adwaithprasanth" /> </p>
+# Hi, I'm Adwaith 👋
 
-## Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=plastic&logo=c&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white) 
+Student developer from India.
 
-## Github Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwaithprasanth&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
-</div>
+## About
+
+- 🎓 Student
+- 💻 Interested in Full Stack Development & AI
+- 🌱 Currently learning ...
+- 🚀 Building interesting projects
+
+## Tech
+
+Python • Java • JavaScript • HTML • CSS • Git • GitHub
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+## Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
