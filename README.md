@@ -4,9 +4,7 @@
     alt="Welcome to my GitHub Profile"
     width="100%"
   />
-
-# Hi, I'm Adwaith 👋
-
+  
 ### A passionate developer from India
 
 <p>
