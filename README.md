@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack 🛠️
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=plastic&logo=c&logoColor=white)
