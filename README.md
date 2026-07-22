@@ -4,11 +4,9 @@
     alt="Welcome to my GitHub Profile"
     width="100%"
   />
-  
-### A passionate developer from India
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=adwaithprasanth&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adwaithprasanth&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 </div>
 
